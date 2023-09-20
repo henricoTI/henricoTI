@@ -3,7 +3,18 @@
 <h3> Linguagens de programaçao</h3>
 
 
+<h4>
+  <ul>
+      <li> java </li>
+      <li> PHP </li>
+      <li> HTML e CSS </li>
+      <li> python </li>
+      <li> MySQL </li>
 
+  </ul>
+
+  
+</h4>
 
 
 
